@@ -1,5 +1,11 @@
 ---
 title: "The State of the Home Lab 2023"
+date: 2023-06-12T13:28:50-07:00
+draft: false
+---
+
+---
+title: "The State of the Home Lab 2023"
 date: 2023-06-12T12:17:31-07:00
 draft: true
 ---
