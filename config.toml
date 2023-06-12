@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-baseURL = 'http://example.org/'
-=======
 baseURL = 'https://jacrobin.github.io/'
->>>>>>> ed340b2afe29e7168dd20fb010db43b79f44f016
 languageCode = 'en-us'
 title = 'Jacob Robinson'
 theme = 'PaperMod'
