@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Jacob Robinson</title>
+<<<<<<< HEAD
     <link>http://example.org/posts/</link>
     <description>Recent content in Posts on Jacob Robinson</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -14,6 +15,21 @@
       
       <guid>http://example.org/posts/the-state-off-the-home-lab-2023/</guid>
       <description>Upgrading My Workflow For those who don&amp;rsquo;t know me, I love tinkering with hardware and software. I am also the type of person who will do something a hundred times before deciding on the best strategy for dealing with a given problem. I only just finished my undergraduate studies for cybersecurity, so for the last year or so my home lab was the last thing I was allocating time to. However, with all my new found free-time, I wanted something to work on in the midst of frantically applying to jobs.</description>
+=======
+    <link>https://jacrobin.github.io/posts/</link>
+    <description>Recent content in Posts on Jacob Robinson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Apr 2023 12:45:27 -0700</lastBuildDate><atom:link href="https://jacrobin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://jacrobin.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 27 Apr 2023 12:45:27 -0700</pubDate>
+      
+      <guid>https://jacrobin.github.io/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+>>>>>>> ed340b2afe29e7168dd20fb010db43b79f44f016
     </item>
     
   </channel>

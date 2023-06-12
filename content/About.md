@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 ![a](/images/pfp.png#center)
@@ -8,6 +9,16 @@ I was originally born in Florida, but currently reside in the  Pacific Northwest
 I interned at [Twilio](https://www.twilio.com/en-us) in the summer of 2022, and worked as a operational resilience analyst. My work focused on control auditing, process workflow improvements, and secure software life cycle recommendations. Additionally, I have experience with [PISCES](https://pisces-intl.org/) as a network security analyst during my course work at WWU. 
 
 I am open for work and prefer both in person or remote work opportunities.
+=======
+![a](../images/pfp.jpg)
+
+## Hi, my name is Jacob
+I was originally born in Florida, but currently reside in the  Pacific Northwest. I am a cybersecurity professional. I hold a B.S in cybersecurity from Western Washington University (NSA CAE-D Certified) and have a range of interests in the industry. 
+
+I interned at [Twilio](https://www.twilio.com/en-us) in the summer of 2022, and worked as a operational resilience analyst. My work focused on control auditing, process workflow improvements, and secure software life cycle recommendations. Additionally, I have experience with [PISCES](https://pisces-intl.org/) as a network security analyst during my course work at WWU. 
+
+I am open to both in person or remote work opportunities.
+>>>>>>> ed340b2afe29e7168dd20fb010db43b79f44f016
 ### Contact:
 - Phone: (727) - 688 - 6984
 - Email: jacobr1428@gmail.com 
@@ -26,4 +37,8 @@ I am open for work and prefer both in person or remote work opportunities.
 - Virtual Machines
 - Git
 - WireShark
+<<<<<<< HEAD
 - Nmap
+=======
+- Nmap
+>>>>>>> ed340b2afe29e7168dd20fb010db43b79f44f016
