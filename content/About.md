@@ -24,8 +24,4 @@ I am open for work and prefer both in person or remote work opportunities.
 - Virtual Machines
 - Git
 - WireShark
-<<<<<<< HEAD
 - Nmap
-=======
-- Nmap
->>>>>>> ed340b2afe29e7168dd20fb010db43b79f44f016
