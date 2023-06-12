@@ -16,7 +16,7 @@ Before talking about what I added, or what I want to add, for all the gear heads
 
 ### NAS (aka Mr.NAS) 
 
-- Made up of remnants of my first gaming PC, this server acts as my personal NAS (but more like DAS). While in the middle of being decommissioned it still servers as a suitable space to store photos, ISOs, and my music collection. Making my distro hopping less of a nightmare.
+- Made up of remnants of my first gaming PC, this server acts as my personal NAS (but more like DAS). While in the middle of being decommissioned it still serves as a suitable space to store photos, ISOs, and my music collection. Making my distro hopping less of a nightmare.
 - Technical Specifications
 	- Asus M5A99X EVO R2.0 Desktop Motherboard
 	- AMD FX- 6350
@@ -64,7 +64,7 @@ Before talking about what I added, or what I want to add, for all the gear heads
 - The newest addition was the TruNAS instance and GitLab on the server. So far a personal GitLab has been great and exactly what I was looking for. I have three machines that I work on. So having a single place to store my code that I have control over is perfect. 
 
 # Whats Next?
-- I still want to do a rack setup eventually. While my current server has plenty of headroom, I would still like the free space in my room back. For now, though the single desktop layout will have to do. I also found some options for expanding storage on the server machine, and any expansions should be able to be easily relocated to a server setup. 
+- I still want to do a rack setup eventually. While my current server has plenty of headroom, I would still like the free space in my room back. Though the single desktop layout will have to do for now. I also found some options for expanding storage on the server machine, and any expansions should be able to be easily relocated to a server setup. 
 - The next big thing is personal development with CI/CD and DevOps. 
 	- My formal education did not address much of anything regarding DevOps. Additionally, my previous internship was not an engineering-focused one, and I only started to start learning the systems in place when my time was up, and none of the interns were hired (they hired George Clooney to talk at their key note instead.)
 	- Also a wanted addition is making a script that can automatically sync my GitLab with my GitHub. I'm still debating on the process I want for this, but it should be easy to implement regardless.
