@@ -4,12 +4,6 @@ date: 2023-06-12T13:28:50-07:00
 draft: false
 ---
 
----
-title: "The State of the Home Lab 2023"
-date: 2023-06-12T12:17:31-07:00
-draft: true
----
-
 # Upgrading My Workflow
 
 For those who don't know me, I love tinkering with hardware and software. I am also the type of person who will do something a hundred times before deciding on the best strategy for dealing with a given problem. I only just finished my undergraduate studies for cybersecurity, so for the last year or so my home lab was the last thing I was allocating time to. However, with all my new found free-time, I wanted something to work on in the midst of frantically applying to jobs. First though I wanted a platform in place before working on projects, hence home Lab 3.0.
