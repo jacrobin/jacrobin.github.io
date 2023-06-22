@@ -6,14 +6,23 @@
     <description>Recent content in Posts on Jacob Robinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jun 2023 12:17:31 -0700</lastBuildDate><atom:link href="https://jacrobin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Jun 2023 20:56:59 -0700</lastBuildDate><atom:link href="https://jacrobin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The State Off the Home Lab 2023</title>
-      <link>https://jacrobin.github.io/posts/the-state-off-the-home-lab-2023/</link>
-      <pubDate>Mon, 12 Jun 2023 12:17:31 -0700</pubDate>
+      <title>Failure</title>
+      <link>https://jacrobin.github.io/posts/failure/</link>
+      <pubDate>Wed, 21 Jun 2023 20:56:59 -0700</pubDate>
       
-      <guid>https://jacrobin.github.io/posts/the-state-off-the-home-lab-2023/</guid>
-      <description>Upgrading My Workflow For those who don&amp;rsquo;t know me, I love tinkering with hardware and software. I am also the type of person who will do something a hundred times before deciding on the best strategy for dealing with a given problem. I only just finished my undergraduate studies for cybersecurity, so for the last year or so my home lab was the last thing I was allocating time to. However, with all my new found free-time, I wanted something to work on in the midst of frantically applying to jobs.</description>
+      <guid>https://jacrobin.github.io/posts/failure/</guid>
+      <description>I’ve been thinking about failure a lot lately. Not only my failures but the concept of failure in general. In a time where everyone seems divided in some capacity, failure is still a rudimentary universal experience everyone can relate to. From leadership, avionics, innovation, friendships, and academia, all failure at their point of perception feels earth-shattering. Like gravity, failure seems inevitable, yet it causes dread and reactionary actions. Also like gravity, I am trying to be one with failure.</description>
+    </item>
+    
+    <item>
+      <title>The State of the Home Lab 2023</title>
+      <link>https://jacrobin.github.io/posts/the-state-of-the-home-lab-2023/</link>
+      <pubDate>Mon, 12 Jun 2023 13:28:50 -0700</pubDate>
+      
+      <guid>https://jacrobin.github.io/posts/the-state-of-the-home-lab-2023/</guid>
+      <description>Upgrading My Workflow For those who don&amp;rsquo;t know me, I love tinkering with hardware and software. I am also the type of person who will do something a hundred times before deciding on the best strategy for dealing with a given problem. I only just finished my undergraduate studies for cybersecurity, so for the last year or so my home lab was the last thing I was allocating time to. However, with all my new found free-time, I wanted something to work on in the midst of frantically applying for jobs.</description>
     </item>
     
   </channel>

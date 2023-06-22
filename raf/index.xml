@@ -2,35 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jacob Robinson</title>
-    <link>https://jacrobin.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Jacob Robinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Jun 2023 20:56:59 -0700</lastBuildDate><atom:link href="https://jacrobin.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Failure</title>
-      <link>https://jacrobin.github.io/posts/failure/</link>
-      <pubDate>Wed, 21 Jun 2023 20:56:59 -0700</pubDate>
-      
-      <guid>https://jacrobin.github.io/posts/failure/</guid>
-      <description>I’ve been thinking about failure a lot lately. Not only my failures but the concept of failure in general. In a time where everyone seems divided in some capacity, failure is still a rudimentary universal experience everyone can relate to. From leadership, avionics, innovation, friendships, and academia, all failure at their point of perception feels earth-shattering. Like gravity, failure seems inevitable, yet it causes dread and reactionary actions. Also like gravity, I am trying to be one with failure.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 12 Jun 2023 13:28:50 -0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The State of the Home Lab 2023</title>
-      <link>https://jacrobin.github.io/posts/the-state-of-the-home-lab-2023/</link>
+      <link>http://localhost:1313/posts/the-state-of-the-home-lab-2023/</link>
       <pubDate>Mon, 12 Jun 2023 13:28:50 -0700</pubDate>
       
-      <guid>https://jacrobin.github.io/posts/the-state-of-the-home-lab-2023/</guid>
+      <guid>http://localhost:1313/posts/the-state-of-the-home-lab-2023/</guid>
       <description>Upgrading My Workflow For those who don&amp;rsquo;t know me, I love tinkering with hardware and software. I am also the type of person who will do something a hundred times before deciding on the best strategy for dealing with a given problem. I only just finished my undergraduate studies for cybersecurity, so for the last year or so my home lab was the last thing I was allocating time to. However, with all my new found free-time, I wanted something to work on in the midst of frantically applying for jobs.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jacrobin.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jacrobin.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Hi, my name is Jacob I was originally born in Florida, but currently reside in the Pacific Northwest. I am an cybersecurity professional. I hold a B.S in cybersecurity from Western Washington University (NSA CAE-D Certified) and have a range of interests in the industry.
 I interned at Twilio in the summer of 2022, and worked as a operational resilience analyst. My work focused on control auditing, process workflow improvements, and secure software life cycle recommendations.</description>
     </item>
