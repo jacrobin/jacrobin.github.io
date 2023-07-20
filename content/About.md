@@ -13,13 +13,15 @@ I am open for work and prefer both in person or remote work opportunities.
 - Github: https://github.com/jacrobin
 - [Resume](/images/Robinson_Jacob_Resume.pdf)
 ### Technology and Skills I Have Experience With:
-##### Programing Languages:
+
+##### Programming Languages:
  - C/C++
  - Python
  - MySQL
  - Bash
  - MS Powershell
  - R
+
 ##### Technology:
 - Kibana [ELK STACK]
 - JIRA
@@ -27,3 +29,4 @@ I am open for work and prefer both in person or remote work opportunities.
 - Git
 - WireShark
 - Nmap 
+- Ghidra
