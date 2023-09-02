@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jacrobin.github.io/posts/failure/</loc>
-    <lastmod>2023-06-21T20:56:59-07:00</lastmod>
-  </url><url>
     <loc>https://jacrobin.github.io/</loc>
-    <lastmod>2023-06-21T20:56:59-07:00</lastmod>
+    <lastmod>2023-07-19T14:15:56-07:00</lastmod>
+  </url><url>
+    <loc>https://jacrobin.github.io/posts/one-day-build-temp-i/</loc>
+    <lastmod>2023-07-19T14:15:56-07:00</lastmod>
   </url><url>
     <loc>https://jacrobin.github.io/posts/</loc>
+    <lastmod>2023-07-19T14:15:56-07:00</lastmod>
+  </url><url>
+    <loc>https://jacrobin.github.io/posts/failure/</loc>
     <lastmod>2023-06-21T20:56:59-07:00</lastmod>
   </url><url>
     <loc>https://jacrobin.github.io/posts/the-state-of-the-home-lab-2023/</loc>

@@ -6,7 +6,18 @@
     <description>Recent content on Jacob Robinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Jun 2023 20:56:59 -0700</lastBuildDate><atom:link href="https://jacrobin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Jul 2023 14:15:56 -0700</lastBuildDate><atom:link href="https://jacrobin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>One Day Build (ODB) #1: Temperature &amp; Humidity Sensor Part: i</title>
+      <link>https://jacrobin.github.io/posts/one-day-build-temp-i/</link>
+      <pubDate>Wed, 19 Jul 2023 14:15:56 -0700</pubDate>
+      
+      <guid>https://jacrobin.github.io/posts/one-day-build-temp-i/</guid>
+      <description>Intro: This is a new thing I want to start doing where I try to build something at least once a month, and within a day (ideally). To kick things off I wanted to test, and build, a simple arduino powered temperature and humidity sensor. This overall took about three hours including testing of planning, sensors, wiring, testing, and coding.
+Build Overview: The build needed to meet two criteria:
+ Read both humidity and temperature reliably Be able to connect to a RaspberryPi later (Part: ii)  To meet these criteria an Arduino was used.</description>
+    </item>
+    
     <item>
       <title>Failure</title>
       <link>https://jacrobin.github.io/posts/failure/</link>
