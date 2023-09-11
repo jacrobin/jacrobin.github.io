@@ -1,7 +1,7 @@
 ---
 title: "Ask Iwata Review"
 date: 2023-09-10T14:50:36-07:00
-draft: true
+draft: false
 ShowToc: true
 ---
 # TL;DR
