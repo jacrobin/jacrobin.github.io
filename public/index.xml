@@ -6,7 +6,16 @@
     <description>Recent content on Jacob Robinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jul 2023 14:15:56 -0700</lastBuildDate><atom:link href="https://jacrobin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Sep 2023 15:36:58 -0700</lastBuildDate><atom:link href="https://jacrobin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>September Update</title>
+      <link>https://jacrobin.github.io/posts/september-update/</link>
+      <pubDate>Sat, 02 Sep 2023 15:36:58 -0700</pubDate>
+      
+      <guid>https://jacrobin.github.io/posts/september-update/</guid>
+      <description>I Messed Up Hey all, so much for a post every month ¯\_(ツ)_/¯. No seriously, August was a little rough for me so I did slack. I spent a lot of time applying to jobs this month. The daily barrage of rejection emails and subsequent daily applications had really put me into a funk. I stopped keeping track a little after graduating, but I easily submitted at least 10 a week minimum, most weeks felt like I did at least 30.</description>
+    </item>
+    
     <item>
       <title>One Day Build (ODB) #1: Temperature &amp; Humidity Sensor Part: i</title>
       <link>https://jacrobin.github.io/posts/one-day-build-temp-i/</link>
