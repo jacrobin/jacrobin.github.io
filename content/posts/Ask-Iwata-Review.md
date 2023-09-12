@@ -28,4 +28,4 @@ Additionally, this quote resonated with me in conjunction from a section of `The
 - Another section of the book Iwata talks about knowing when to leave a work position or not take one out of desperation, rather how you feel in your heart about it. If your gut tells you its the wrong path it probably is. 
 
 # Who Would I Recommend This Book To?
-- Undergrad students, especially those in management or STEM pipelines. Like I mentioned in my [last post](http://localhost:1313/posts/september-update/) this book flushed out what my idea of a ideal work environment and frame of mind is. This is something that is not taught (at least at my institutions) really at all in school, but is critical to having a decent work life balance.
+- Undergrad students, especially those in management or STEM pipelines. Like I mentioned in my [last post](https://jacrobin.github.io/posts/september-update/) this book flushed out what my idea of a ideal work environment and frame of mind is. This is something that is not taught (at least at my institutions) really at all in school, but is critical to having a decent work life balance.
