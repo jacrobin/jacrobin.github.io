@@ -5,7 +5,7 @@ theme = 'PaperMod'
 
 [[menu.main]]
   name ="Home"
-  url = "/home/"
+  url = "/splash/"
   weight = 1
 [[menu.main]]
   name = "About and Contact"
