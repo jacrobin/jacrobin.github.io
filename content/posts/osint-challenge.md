@@ -31,12 +31,12 @@ This still presumably near the site there is either a car supply or maintenance 
 
 ![a](/images/osint-chal/auto.png#center)
 
-Another still from a video shows another angle of both the car and the possible religious building from earlier. With the car being on what appears to be a flatbed. It's fair to assume that this intersection is the site. And another video still appears to show the same building with the billboard from earlier. So now we know for sure this is the intersection and have a rough idea what the building shapes are. 
+Another still from a video shows another angle of both the car and the possible religious building from earlier. With the car being on what appears to be a flatbed. It's fair to assume that this intersection is the site. Another video still appears to show the same building with the billboard from earlier. So now we know for sure this is the intersection and have a rough idea what the building shapes are. 
 
 ![a](/images/osint-chal/both.png#center)
 ![a](/images/osint-chal/layout.png#center)
 
-At this point I go back to twitter after having no luck with using google images of local shops to try to pinpoint nearby spots. I found [this X post](https://twitter.com/anadoluagency/status/1755567150742340020) claiming to have the “exact location” on a map. But it's still hard to discern the location, and the link did not contain the coordinates, so I used it to further shrink the area of observation.
+At this point I went back to twitter after having no luck with using google images of local shops to try to pinpoint nearby spots. I found [this X post](https://twitter.com/anadoluagency/status/1755567150742340020) claiming to have the “exact location” on a map. But it's still hard to discern the location, and the link did not contain the coordinates, so I used it to further shrink the area of observation.
 
 ![a](/images/osint-chal/exact-location.png#center)
 
