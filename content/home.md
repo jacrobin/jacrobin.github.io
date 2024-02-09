@@ -1,6 +1,7 @@
 ---
-title: "Welcome!"
-draft: true
+title: "Hello!"
+date: 2024-02-09T11:45:57-08:00
+draft: false
 ShowToc: true
 TocOpen: false
 ---
@@ -21,3 +22,4 @@ A lot actually! Other than technology I have deep interest in history, gundum mo
 ![a](/images/stars.png#center)
 ![a](/images/char_weathered.png#center)
 ![a](/images/IMG_2061.png#center)
+

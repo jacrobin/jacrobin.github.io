@@ -4,9 +4,10 @@ title = 'Jacob Robinson'
 theme = 'PaperMod'
 
 [[menu.main]]
-  name ="Welcome"
-  url = "/splash/"
+  name ="Home"
+  url = "/home/"
   weight = 1
+
 [[menu.main]]
   name = "About and Contact"
   url = "/About/"
