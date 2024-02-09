@@ -12,11 +12,11 @@ For the past two days I have been trying to learn and practice practical OSINT. 
 ![a](/images/osint-chal/outline.png#center)
 
 
-A good start, but still a large area. And since I don't read or write (or speak) Arabic, signs and google maps locations wouldn't be a huge help. Not to mention its not google street view widely available in this part of the world. Even still I started to pick apart videos and images to gather some clues. Looking at this picture we can see the car after the strike was lifted with a truck with a crane. And presumably at or near its position at the time of the strike.
+A good start, but still a large area. And since I don't read or write (or speak) Arabic, signs and google maps locations wouldn't be a huge help. Not to mention its not like google street view is widely available in this part of the world. Even still I started to pick apart videos and images to gather some clues. Looking at this picture we can see the car after the strike was lifted with a truck with a crane. And presumably at or near its position at the time of the strike.
 
 ![a](/images/osint-chal/first-image.png#center)
 
-The text on the building is clear. So let's run it through google lens to try to either identify the building or the text.
+The text on the building is clear. So let's run it through google images to try to either identify the building or the text.
 
 ![a](/images/osint-chal/first-image-text-1.png#center)
 ![a](/images/osint-chal/first-image-text-2.png#center)
@@ -27,7 +27,7 @@ Here is a still from a video just after the strike. The text is blurry so no poi
 
 ![a](/images/osint-chal/bill_board_first.png#center)
 
-This still presumably near the site there is either a car supply or maintenance vendor, but looking at all car related locations in the Al Mashtal area in google maps there is now way I could narrow it down off of this alone, but again might be good for confirmation later. 
+This is still presumably near the site there is either a car supply or maintenance vendor, but looking at all car related locations in the Al Mashtal area in google maps there is now way I could narrow it down off of this alone, but again might be good for confirmation later. 
 
 ![a](/images/osint-chal/auto.png#center)
 
@@ -40,17 +40,17 @@ At this point I went back to twitter after having no luck with using google imag
 
 ![a](/images/osint-chal/exact-location.png#center)
 
-The point appears to be right on the outskirts of the area off a main road, which makes sense for why the strike commenced when it did. Late at night, likely little traffic, and a wide road compared to rest of the area. In conjunction with the map, I start following the main turn offs near the red dot using other roads and nearby bodies of water to guide me. Finally I have a seemingly solid match from the satellite imagery, but I want to have further proof.
+The point appears to be on the outskirts of the area off a main road, which makes sense for why the strike commenced when it did. Late at night, likely little traffic, and a wide road compared to rest of the area. In conjunction with the map, I start following the main turn offs near the red dot using other roads and nearby bodies of water to guide me. Finally I have a seemingly solid match from the satellite imagery, but I want to have further proof.
 
 ![a](/images/osint-chal/building-match.png#center)
 
-Using this [Al Jazzera video from X](https://twitter.com/AJEnglish/status/1755508927876514102) we can see a building in the distance with green trim that protrudes out slightly, which we saw from the auto shop photo, and in the opposite direction a large metallic structure on a roof behind the billboard building.
+Using this [Al Jazzera video from X](https://twitter.com/AJEnglish/status/1755508927876514102) we can see a building in the distance with green trim that protrudes out slightly, which is a match with a building we saw from the auto shop photo earlier, and in the opposite direction a large metallic structure on a roof behind the billboard building.
 
 ![a](/images/osint-chal/aj-green-building.png#center)
 ![a](/images/osint-chal/aj-metal-structure.png#center)
 ![a](/images/osint-chal/all-three.png#center)
 
-Okay cool we another match. But is there anything else? Maybe the trees down the street show up in [another video](https://twitter.com/i/status/1755310845368897622)? 
+Okay cool we another match. But is there anything else? Maybe the trees down the street show up in [another video](https://twitter.com/i/status/1755310845368897622)somewhere? 
 
 ![a](/images/osint-chal/tree-crop.png#center)
 
