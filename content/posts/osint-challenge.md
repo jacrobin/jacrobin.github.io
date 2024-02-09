@@ -31,7 +31,7 @@ This still presumably near the site there is either a car supply or maintenance 
 
 ![a](/images/osint-chal/auto.png#center)
 
-Another still from a video shows another angle of both the car and the possible religious building from earlier. With the car being on what appears to be a flatbed it's fair to assume that this intersection is the site. And another video still appears to show the same building with the billboard from earlier. So now we know for sure this is the intersection and have a rough idea what the building shapes are. 
+Another still from a video shows another angle of both the car and the possible religious building from earlier. With the car being on what appears to be a flatbed. It's fair to assume that this intersection is the site. And another video still appears to show the same building with the billboard from earlier. So now we know for sure this is the intersection and have a rough idea what the building shapes are. 
 
 ![a](/images/osint-chal/both.png#center)
 ![a](/images/osint-chal/layout.png#center)
