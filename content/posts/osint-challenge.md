@@ -7,17 +7,16 @@ draft: false
 
 On February 7th, 2024 at 9:30 PM in Baghdad, Iraq the U.S military conducted an air strike on a single vehicle that contained a senior leader of Kata’ib Hezbollah who [USCENTCOM](https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/3669808/uscentcom-conducts-strike-killing-kataib-hezbollah-senior-leader/) says both planned and took part in attacks of U.S forces in the region. At this time USCENTCOM says that other than the passengers there are no other fatalities. 
 
-For the past two days I have been trying to learn and practice practical OSINT. I thought about going after some debunking some misinformation on twitter, or geolocating a friend in a picture. But after seeing anger in Iraq because of the strike site I thought that there might be enough info on social media for me to work with in narrowing down the location. My goal was simple, use as little outside info to get the exact coordinates of the strike using only public resources and reporting. I started by collecting photos and stills from videos both shortly after the airstrike, and later on during clean up efforts when more people would be filming. But first I needed to get down to the rough area of the strike. Looking through media reports and [X posts](https://twitter.com/i/status/1755301942501195958) I saw several mentions of `Al Mashtal area`and ` Al Mashtal neighborhood, eastern Baghdad, Iraq`. 
+For the past two days I have been trying to learn and practice practical OSINT. I thought about debunking some misinformation on twitter, or geolocating a friend in a picture. But after seeing the anger in Iraq because of the strike site I thought that there might be enough info on social media for me to work with in narrowing down the location. My goal was simple, use as little outside info to get the exact coordinates of the strike using only public resources and reporting. I started by collecting photos and stills from videos both shortly after the airstrike, and later on during clean up efforts when more people would be filming. But first I needed to get down to the rough area of the strike. Looking through media reports and [X posts](https://twitter.com/i/status/1755301942501195958) I saw several mentions of `Al Mashtal area`and ` Al Mashtal neighborhood, eastern Baghdad, Iraq`. 
 
 ![a](/images/osint-chal/outline.png#center)
 
 
-A good start, but still a large area. And since I don't read or write (or speak) Arabic signs and google locations wouldn't be a huge help. Even still I started to pick apart videos and images to gather some clues. Looking at this picture we can see the car after the strike was lifted with a truck with a crane. And presumably at or near its position at the time of its strike.
+A good start, but still a large area. And since I don't read or write (or speak) Arabic, signs and google maps locations wouldn't be a huge help. Even still I started to pick apart videos and images to gather some clues. Looking at this picture we can see the car after the strike was lifted with a truck with a crane. And presumably at or near its position at the time of the strike.
 
 ![a](/images/osint-chal/first-image.png#center)
 
-
-The text on the building is clear. So let's run it through google lens to try to either identify the building or the text
+The text on the building is clear. So let's run it through google lens to try to either identify the building or the text.
 
 ![a](/images/osint-chal/first-image-text-1.png#center)
 ![a](/images/osint-chal/first-image-text-2.png#center)
@@ -41,7 +40,7 @@ At this point I go back to twitter after having no luck with using google images
 
 ![a](/images/osint-chal/exact-location.png#center)
 
-The point appears to be right on the outskirts of the area off a main road, which makes sense for why the strike commenced when it did. In conjunction with the map, I start following the main turn offs near the red dot using other roads and nearby bodies of water to guide me. Finally I have a seemingly solid match from the satellite imagery, but I want to have further proof.
+The point appears to be right on the outskirts of the area off a main road, which makes sense for why the strike commenced when it did. Late at night, likely little traffic, and a wide road compared to rest of the area. In conjunction with the map, I start following the main turn offs near the red dot using other roads and nearby bodies of water to guide me. Finally I have a seemingly solid match from the satellite imagery, but I want to have further proof.
 
 ![a](/images/osint-chal/building-match.png#center)
 
