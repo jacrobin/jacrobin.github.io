@@ -4,7 +4,7 @@ title = 'Jacob Robinson'
 theme = 'PaperMod'
 
 [[menu.main]]
-  name ="Home"
+  name ="Welcome"
   url = "/splash/"
   weight = 1
 [[menu.main]]

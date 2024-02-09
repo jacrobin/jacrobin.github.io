@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>2023 Posts on Jacob Robinson</title>
+    <link>https://jacrobin.github.io/2023-post/</link>
+    <description>Recent content in 2023 Posts on Jacob Robinson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Sep 2023 14:50:36 -0700</lastBuildDate><atom:link href="https://jacrobin.github.io/2023-post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ask Iwata Review</title>
+      <link>https://jacrobin.github.io/2023-post/ask-iwata-review/</link>
+      <pubDate>Sun, 10 Sep 2023 14:50:36 -0700</pubDate>
+      
+      <guid>https://jacrobin.github.io/2023-post/ask-iwata-review/</guid>
+      <description>TL;DR I recently finished reading this book, and I really enjoyed it. If you don&amp;rsquo;t know who the late Satoru Iwata is he is a Japanese business man who worked his way up to president of HAL, eventually the president of Nintendo. He tragically passed away in July of 2015 at the age of 55, but his impact and influence on Nintendo and their customers will tell the test of time.</description>
+    </item>
+    
+    <item>
+      <title>September Update</title>
+      <link>https://jacrobin.github.io/2023-post/september-update/</link>
+      <pubDate>Sat, 02 Sep 2023 15:36:58 -0700</pubDate>
+      
+      <guid>https://jacrobin.github.io/2023-post/september-update/</guid>
+      <description>I Messed Up Hey all, so much for a post every month ¯\_(ツ)_/¯. No seriously, August was a little rough for me so I did slack. I spent a lot of time applying to jobs this month. The daily barrage of rejection emails and subsequent daily applications had really put me into a funk. I stopped keeping track a little after graduating, but I easily submitted at least 10 a week minimum, most weeks felt like I did at least 30.</description>
+    </item>
+    
+    <item>
+      <title>One Day Build (ODB) #1: Temperature &amp; Humidity Sensor Part: i</title>
+      <link>https://jacrobin.github.io/2023-post/one-day-build-temp-i/</link>
+      <pubDate>Wed, 19 Jul 2023 14:15:56 -0700</pubDate>
+      
+      <guid>https://jacrobin.github.io/2023-post/one-day-build-temp-i/</guid>
+      <description>Intro: This is a new thing I want to start doing where I try to build something at least once a month, and within a day (ideally). To kick things off I wanted to test, and build, a simple arduino powered temperature and humidity sensor. This overall took about three hours including testing of planning, sensors, wiring, testing, and coding.
+Build Overview: The build needed to meet two criteria:
+ Read both humidity and temperature reliably Be able to connect to a RaspberryPi later (Part: ii)  To meet these criteria an Arduino was used.</description>
+    </item>
+    
+    <item>
+      <title>Failure</title>
+      <link>https://jacrobin.github.io/2023-post/failure/</link>
+      <pubDate>Wed, 21 Jun 2023 20:56:59 -0700</pubDate>
+      
+      <guid>https://jacrobin.github.io/2023-post/failure/</guid>
+      <description>Apollo 1 Command module, after the fire that killed Gus Grissom, Edward White II, and Roger Chaffee.
+I’ve been thinking about failure a lot lately. Not only my failures but the concept of failure in general. In a time where everyone seems divided in some capacity, failure is still a rudimentary universal experience everyone can relate to. From leadership, avionics, innovation, friendships, and academia. All failure at their point of perception feel earth-shattering.</description>
+    </item>
+    
+    <item>
+      <title>The State of the Home Lab 2023</title>
+      <link>https://jacrobin.github.io/2023-post/the-state-of-the-home-lab-2023/</link>
+      <pubDate>Mon, 12 Jun 2023 13:28:50 -0700</pubDate>
+      
+      <guid>https://jacrobin.github.io/2023-post/the-state-of-the-home-lab-2023/</guid>
+      <description>Upgrading My Workflow For those who don&amp;rsquo;t know me, I love tinkering with hardware and software. I am also the type of person who will do something a hundred times before deciding on the best strategy for dealing with a given problem. I only just finished my undergraduate studies for cybersecurity, so for the last year or so my home lab was the last thing I was allocating time to. However, with all my new found free-time, I wanted something to work on in the midst of frantically applying for jobs.</description>
+    </item>
+    
+  </channel>
+</rss>

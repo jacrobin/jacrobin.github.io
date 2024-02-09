@@ -6,44 +6,24 @@
     <description>Recent content in Posts on Jacob Robinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Sep 2023 15:36:58 -0700</lastBuildDate><atom:link href="https://jacrobin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Feb 2024 21:04:34 -0800</lastBuildDate><atom:link href="https://jacrobin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>September Update</title>
-      <link>https://jacrobin.github.io/posts/september-update/</link>
-      <pubDate>Sat, 02 Sep 2023 15:36:58 -0700</pubDate>
+      <title>OSINT Challenge - Feb 7th Iraq Airstrike</title>
+      <link>https://jacrobin.github.io/posts/osint-challenge/</link>
+      <pubDate>Thu, 08 Feb 2024 21:04:34 -0800</pubDate>
       
-      <guid>https://jacrobin.github.io/posts/september-update/</guid>
-      <description>I Messed Up Hey all, so much for a post every month ¯\_(ツ)_/¯. No seriously, August was a little rough for me so I did slack. I spent a lot of time applying to jobs this month. The daily barrage of rejection emails and subsequent daily applications had really put me into a funk. I stopped keeping track a little after graduating, but I easily submitted at least 10 a week minimum, most weeks felt like I did at least 30.</description>
+      <guid>https://jacrobin.github.io/posts/osint-challenge/</guid>
+      <description>On February 7th, 2024 at 9:30 PM in Baghdad, Iraq the U.S military conducted an air strike on a single vehicle that contained a senior leader of Kata’ib Hezbollah who USCENTCOM says both planned and took part in attacks of U.S forces in the region. At this time USCENTCOM says that other than the passengers there are no other fatalities.
+For the past two days I have been trying to learn and practice practical OSINT.</description>
     </item>
     
     <item>
-      <title>One Day Build (ODB) #1: Temperature &amp; Humidity Sensor Part: i</title>
-      <link>https://jacrobin.github.io/posts/one-day-build-temp-i/</link>
-      <pubDate>Wed, 19 Jul 2023 14:15:56 -0700</pubDate>
+      <title>Lets go 2024!</title>
+      <link>https://jacrobin.github.io/posts/hello_2024/</link>
+      <pubDate>Mon, 01 Jan 2024 09:51:54 -0800</pubDate>
       
-      <guid>https://jacrobin.github.io/posts/one-day-build-temp-i/</guid>
-      <description>Intro: This is a new thing I want to start doing where I try to build something at least once a month, and within a day (ideally). To kick things off I wanted to test, and build, a simple arduino powered temperature and humidity sensor. This overall took about three hours including testing of planning, sensors, wiring, testing, and coding.
-Build Overview: The build needed to meet two criteria:
- Read both humidity and temperature reliably Be able to connect to a RaspberryPi later (Part: ii)  To meet these criteria an Arduino was used.</description>
-    </item>
-    
-    <item>
-      <title>Failure</title>
-      <link>https://jacrobin.github.io/posts/failure/</link>
-      <pubDate>Wed, 21 Jun 2023 20:56:59 -0700</pubDate>
-      
-      <guid>https://jacrobin.github.io/posts/failure/</guid>
-      <description>Apollo 1 Command module, after the fire that killed Gus Grissom, Edward White II, and Roger Chaffee.
-I’ve been thinking about failure a lot lately. Not only my failures but the concept of failure in general. In a time where everyone seems divided in some capacity, failure is still a rudimentary universal experience everyone can relate to. From leadership, avionics, innovation, friendships, and academia. All failure at their point of perception feel earth-shattering.</description>
-    </item>
-    
-    <item>
-      <title>The State of the Home Lab 2023</title>
-      <link>https://jacrobin.github.io/posts/the-state-of-the-home-lab-2023/</link>
-      <pubDate>Mon, 12 Jun 2023 13:28:50 -0700</pubDate>
-      
-      <guid>https://jacrobin.github.io/posts/the-state-of-the-home-lab-2023/</guid>
-      <description>Upgrading My Workflow For those who don&amp;rsquo;t know me, I love tinkering with hardware and software. I am also the type of person who will do something a hundred times before deciding on the best strategy for dealing with a given problem. I only just finished my undergraduate studies for cybersecurity, so for the last year or so my home lab was the last thing I was allocating time to. However, with all my new found free-time, I wanted something to work on in the midst of frantically applying for jobs.</description>
+      <guid>https://jacrobin.github.io/posts/hello_2024/</guid>
+      <description>LETS GO 2024 Very excited for what is to come this year. After graduating in June with my B.S in cyber security I am poised to get employed sometime this year. While the news about the tech sector is doom and gloom, I do have some opportunities in the works. I have a conditional offer with the government, but I havn&amp;rsquo;t well, yet met the conditions (I guess), but in time everything should be good to go.</description>
     </item>
     
   </channel>

@@ -3,21 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jacrobin.github.io/</loc>
-    <lastmod>2023-09-02T15:36:58-07:00</lastmod>
+    <lastmod>2024-02-08T21:04:34-08:00</lastmod>
+  </url><url>
+    <loc>https://jacrobin.github.io/posts/osint-challenge/</loc>
+    <lastmod>2024-02-08T21:04:34-08:00</lastmod>
   </url><url>
     <loc>https://jacrobin.github.io/posts/</loc>
+    <lastmod>2024-02-08T21:04:34-08:00</lastmod>
+  </url><url>
+    <loc>https://jacrobin.github.io/posts/hello_2024/</loc>
+    <lastmod>2024-01-01T09:51:54-08:00</lastmod>
+  </url><url>
+    <loc>https://jacrobin.github.io/2023-post/</loc>
+    <lastmod>2023-09-10T14:50:36-07:00</lastmod>
+  </url><url>
+    <loc>https://jacrobin.github.io/2023-post/ask-iwata-review/</loc>
+    <lastmod>2023-09-10T14:50:36-07:00</lastmod>
+  </url><url>
+    <loc>https://jacrobin.github.io/2023-post/september-update/</loc>
     <lastmod>2023-09-02T15:36:58-07:00</lastmod>
   </url><url>
-    <loc>https://jacrobin.github.io/posts/september-update/</loc>
-    <lastmod>2023-09-02T15:36:58-07:00</lastmod>
-  </url><url>
-    <loc>https://jacrobin.github.io/posts/one-day-build-temp-i/</loc>
+    <loc>https://jacrobin.github.io/2023-post/one-day-build-temp-i/</loc>
     <lastmod>2023-07-19T14:15:56-07:00</lastmod>
   </url><url>
-    <loc>https://jacrobin.github.io/posts/failure/</loc>
+    <loc>https://jacrobin.github.io/2023-post/failure/</loc>
     <lastmod>2023-06-21T20:56:59-07:00</lastmod>
   </url><url>
-    <loc>https://jacrobin.github.io/posts/the-state-of-the-home-lab-2023/</loc>
+    <loc>https://jacrobin.github.io/2023-post/the-state-of-the-home-lab-2023/</loc>
     <lastmod>2023-06-12T13:28:50-07:00</lastmod>
   </url><url>
     <loc>https://jacrobin.github.io/about/</loc>
