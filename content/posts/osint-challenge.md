@@ -50,7 +50,7 @@ Using this [Al Jazzera video from X](https://twitter.com/AJEnglish/status/175550
 ![a](/images/osint-chal/aj-metal-structure.png#center)
 ![a](/images/osint-chal/all-three.png#center)
 
-Okay cool we another match. But is there anything else? Maybe the trees down the street show up in [another video](https://twitter.com/i/status/1755310845368897622)somewhere? 
+Okay cool we another match. But is there anything else? Maybe the trees down the street show up in [another video](https://twitter.com/i/status/1755310845368897622) somewhere? 
 
 ![a](/images/osint-chal/tree-crop.png#center)
 

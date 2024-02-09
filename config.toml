@@ -1,22 +1,24 @@
-baseURL = 'https://jacrobin.github.io/'
+baseURL = 'https://jacrobin.github.io'
 languageCode = 'en-us'
 title = 'Jacob Robinson'
 theme = 'PaperMod'
 
 [[menu.main]]
   name ="Home"
-  url = "/posts/"
+  url = "/home/"
   weight = 1
 [[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = 2
+  name = "About and Contact"
+  url = "/About/"
+  weight = 20
 [[menu.main]]
   name = "Posts"
   url = "/posts/"
   weight = 3
-
-
+[[menu.main]]
+  name = "2023 Archive"
+  url = "/2023 Post/"
+  weight = 4
 
 [markup]
   defaultMarkdownHandler = 'goldmark'
