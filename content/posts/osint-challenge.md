@@ -12,7 +12,7 @@ For the past two days I have been trying to learn and practice practical OSINT. 
 ![a](/images/osint-chal/outline.png#center)
 
 
-A good start, but still a large area. And since I don't read or write (or speak) Arabic, signs and google maps locations wouldn't be a huge help. Even still I started to pick apart videos and images to gather some clues. Looking at this picture we can see the car after the strike was lifted with a truck with a crane. And presumably at or near its position at the time of the strike.
+A good start, but still a large area. And since I don't read or write (or speak) Arabic, signs and google maps locations wouldn't be a huge help. Not to mention its not google street view widely available in this part of the world. Even still I started to pick apart videos and images to gather some clues. Looking at this picture we can see the car after the strike was lifted with a truck with a crane. And presumably at or near its position at the time of the strike.
 
 ![a](/images/osint-chal/first-image.png#center)
 
