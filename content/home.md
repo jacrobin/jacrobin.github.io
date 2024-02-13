@@ -17,7 +17,7 @@ Currently I am pursing a path towards public sector work in cyber security. It s
 
 ### What else am I into?
 
-A lot actually! Other than technology I have deep interest in history, gundum model kits, painting, poetry, vintage electronics, photography, sports car racing, and occasionally kayaking.
+A lot actually! Other than technology I have deep interest in history, gundam model kits, painting, poetry, vintage electronics, photography, sports car racing, and occasionally kayaking.
 
 ![a](/images/stars.png#center)
 ![a](/images/char_weathered.png#center)
