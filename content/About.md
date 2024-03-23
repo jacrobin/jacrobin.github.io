@@ -8,7 +8,6 @@ I interned at [Twilio](https://www.twilio.com/en-us) in the summer of 2022, and 
 I am open for work and prefer both in person or remote work opportunities.
 
 ### Contact:
-- Phone: (727) - 688 - 6984
 - Email: jacobr1428@gmail.com 
 - Github: https://github.com/jacrobin
 - [Resume](/images/Robinson_Jacob_Resume.pdf)
