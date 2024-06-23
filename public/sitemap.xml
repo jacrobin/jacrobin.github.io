@@ -2,41 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jacrobin.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-05-27T13:57:05-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-05-27T13:57:05-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/what-i-wish-i-did/</loc>
+    <lastmod>2024-05-27T13:57:05-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/home/</loc>
+    <lastmod>2024-02-09T11:45:57-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/osint-challenge/</loc>
     <lastmod>2024-02-08T21:04:34-08:00</lastmod>
   </url><url>
-    <loc>https://jacrobin.github.io/posts/osint-challenge/</loc>
-    <lastmod>2024-02-08T21:04:34-08:00</lastmod>
-  </url><url>
-    <loc>https://jacrobin.github.io/posts/</loc>
-    <lastmod>2024-02-08T21:04:34-08:00</lastmod>
-  </url><url>
-    <loc>https://jacrobin.github.io/posts/hello_2024/</loc>
+    <loc>http://localhost:1313/posts/hello_2024/</loc>
     <lastmod>2024-01-01T09:51:54-08:00</lastmod>
   </url><url>
-    <loc>https://jacrobin.github.io/2023-post/</loc>
+    <loc>http://localhost:1313/2023-post/</loc>
     <lastmod>2023-09-10T14:50:36-07:00</lastmod>
   </url><url>
-    <loc>https://jacrobin.github.io/2023-post/ask-iwata-review/</loc>
+    <loc>http://localhost:1313/2023-post/ask-iwata-review/</loc>
     <lastmod>2023-09-10T14:50:36-07:00</lastmod>
   </url><url>
-    <loc>https://jacrobin.github.io/2023-post/september-update/</loc>
+    <loc>http://localhost:1313/2023-post/september-update/</loc>
     <lastmod>2023-09-02T15:36:58-07:00</lastmod>
   </url><url>
-    <loc>https://jacrobin.github.io/2023-post/one-day-build-temp-i/</loc>
+    <loc>http://localhost:1313/2023-post/one-day-build-temp-i/</loc>
     <lastmod>2023-07-19T14:15:56-07:00</lastmod>
   </url><url>
-    <loc>https://jacrobin.github.io/2023-post/failure/</loc>
+    <loc>http://localhost:1313/2023-post/failure/</loc>
     <lastmod>2023-06-21T20:56:59-07:00</lastmod>
   </url><url>
-    <loc>https://jacrobin.github.io/2023-post/the-state-of-the-home-lab-2023/</loc>
+    <loc>http://localhost:1313/2023-post/the-state-of-the-home-lab-2023/</loc>
     <lastmod>2023-06-12T13:28:50-07:00</lastmod>
   </url><url>
-    <loc>https://jacrobin.github.io/about/</loc>
-    <priority>0</priority>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://jacrobin.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://jacrobin.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

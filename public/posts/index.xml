@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Jacob Robinson</title>
-    <link>https://jacrobin.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Jacob Robinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Feb 2024 21:04:34 -0800</lastBuildDate><atom:link href="https://jacrobin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 May 2024 13:57:05 -0400</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSINT Challenge - Feb 7th Iraq Airstrike</title>
-      <link>https://jacrobin.github.io/posts/osint-challenge/</link>
+      <link>http://localhost:1313/posts/osint-challenge/</link>
       <pubDate>Thu, 08 Feb 2024 21:04:34 -0800</pubDate>
       
-      <guid>https://jacrobin.github.io/posts/osint-challenge/</guid>
+      <guid>http://localhost:1313/posts/osint-challenge/</guid>
       <description>On February 7th, 2024 at 9:30 PM in Baghdad, Iraq the U.S military conducted an air strike on a single vehicle that contained a senior leader of Kata’ib Hezbollah who USCENTCOM says both planned and took part in attacks of U.S forces in the region. At this time USCENTCOM says that other than the passengers there are no other fatalities.
 For the past two days I have been trying to learn and practice practical OSINT.</description>
     </item>
     
     <item>
       <title>Lets go 2024!</title>
-      <link>https://jacrobin.github.io/posts/hello_2024/</link>
+      <link>http://localhost:1313/posts/hello_2024/</link>
       <pubDate>Mon, 01 Jan 2024 09:51:54 -0800</pubDate>
       
-      <guid>https://jacrobin.github.io/posts/hello_2024/</guid>
+      <guid>http://localhost:1313/posts/hello_2024/</guid>
       <description>LETS GO 2024 Very excited for what is to come this year. After graduating in June with my B.S in cyber security I am poised to get employed sometime this year. While the news about the tech sector is doom and gloom, I do have some opportunities in the works. I have a conditional offer with the government, but I havn&amp;rsquo;t well, yet met the conditions (I guess), but in time everything should be good to go.</description>
     </item>
     
