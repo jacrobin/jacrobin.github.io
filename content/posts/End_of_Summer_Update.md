@@ -1,6 +1,6 @@
 ---
 title: "End of Summer Update"
-date: 2024-07-21T19:02:43-04:00
+date: 2024-08-18T19:02:43-04:00
 draft: false
 ---
 
