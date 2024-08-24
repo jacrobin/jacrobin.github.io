@@ -16,7 +16,7 @@ Needless to say, I have a lot of goals, very little plans, the perception of ver
 
 My current employer is very big proponent for personal development, and promotes the employee looking at other internal options to transition into to meet professional goals. For the mean time I am locked into my current role for at least two years, but more important to me, locked into a single physical location for two years. 
 
-As of writing this I am 17% of the way through my obligation, so plenty of time to figure out the rest. The biggest goal right now is to be debt free within 2-3 years and start maxing out retirement savings. Which with my amount of debts and current salary these conditions easy to accomplish. Some secondary goals are to pick up fishing, windsurfing and stand up paddle 🌊 🤙
+As of writing this I am 17% of the way through my obligation, so plenty of time to figure out the rest. The biggest goal right now is to be debt free within 2-3 years and start maxing out retirement savings. Which with my amount of debts and current salary these conditions are easy to accomplish. Some secondary goals are to pick up fishing, windsurfing and stand up paddle 🌊 🤙
 
 Godspeed everyone, be safe
 
