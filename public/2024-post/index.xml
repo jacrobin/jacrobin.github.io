@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2024 Posts on Jacob Robinson</title>
-    <link>//uild:1313/2024-post/</link>
+    <link>http://localhost:1313/2024-post/</link>
     <description>Recent content in 2024 Posts on Jacob Robinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Aug 2024 19:02:43 -0400</lastBuildDate><atom:link href="//uild:1313/2024-post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Aug 2024 19:02:43 -0400</lastBuildDate><atom:link href="http://localhost:1313/2024-post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>End of Summer Update</title>
-      <link>//uild:1313/2024-post/end_of_summer_update/</link>
+      <link>http://localhost:1313/2024-post/end_of_summer_update/</link>
       <pubDate>Sun, 18 Aug 2024 19:02:43 -0400</pubDate>
       
-      <guid>//uild:1313/2024-post/end_of_summer_update/</guid>
+      <guid>http://localhost:1313/2024-post/end_of_summer_update/</guid>
       <description>&lt;p&gt;Hello all!&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve been fairly quiet recently, mainly because I moved across the country and I started my new job in the spring. Both have been an experience to say the least. Obviously this has been a transitional period of my life and for the first time I am truly &amp;lsquo;adult-ing&amp;rsquo;.&lt;/p&gt;
 &lt;p&gt;Another challenge is I don&amp;rsquo;t have any of my gear. Its going to be a while until I get all my equipment to my new location. This married with my lack of free time has constrained exactly what projects I am going to pursue in the near future. I have some ideas, but a lot of my time in the next quarter or so is slated for education in the form of SANS classes or certificates/degrees. I would like to get to a place that I build foundational skills in something else in the IT/OT/cybersecurity space than I am currently doing, and have something of a side hustle in the coming years. But I acknowledge that this would mean the potential of having effectively two full time jobs.&lt;/p&gt;</description>
@@ -20,21 +20,21 @@
     
     <item>
       <title>OSINT Challenge - Feb 7th Iraq Airstrike</title>
-      <link>//uild:1313/2024-post/osint-challenge/</link>
+      <link>http://localhost:1313/2024-post/osint-challenge/</link>
       <pubDate>Thu, 08 Feb 2024 21:04:34 -0800</pubDate>
       
-      <guid>//uild:1313/2024-post/osint-challenge/</guid>
+      <guid>http://localhost:1313/2024-post/osint-challenge/</guid>
       <description>&lt;p&gt;On February 7th, 2024 at 9:30 PM in Baghdad, Iraq the U.S military conducted an air strike on a single vehicle that contained a senior leader of Kata’ib Hezbollah who &lt;a href=&#34;https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/3669808/uscentcom-conducts-strike-killing-kataib-hezbollah-senior-leader/&#34;&gt;USCENTCOM&lt;/a&gt; says both planned and took part in attacks of U.S forces in the region. At this time USCENTCOM says that other than the passengers there are no other fatalities.&lt;/p&gt;
 &lt;p&gt;For the past two days I have been trying to learn and practice practical OSINT. I thought about debunking some misinformation on twitter, or geolocating a friend in a picture. But after seeing the anger in Iraq because of the strike I thought that there might be enough info on social media for me to work with in narrowing down the location. My goal was simple, use as little official release info to get the exact coordinates of the strike using only public resources and reporting. I started by collecting photos and stills from videos both shortly after the airstrike, and later on during clean up efforts when more people would be filming. But first I needed to get down to the rough area of the strike. Looking through media reports and &lt;a href=&#34;https://twitter.com/i/status/1755301942501195958&#34;&gt;X posts&lt;/a&gt; I saw several mentions of &lt;code&gt;Al Mashtal area&lt;/code&gt;and &lt;code&gt; Al Mashtal neighborhood, eastern Baghdad, Iraq&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Lets go 2024!</title>
-      <link>//uild:1313/2024-post/hello_2024/</link>
+      <link>http://localhost:1313/2024-post/hello_2024/</link>
       <pubDate>Mon, 01 Jan 2024 09:51:54 -0800</pubDate>
       
-      <guid>//uild:1313/2024-post/hello_2024/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//uild:1313/images/2024/eva-title.png#center&#34; alt=&#34;a&#34;  /&gt;
+      <guid>http://localhost:1313/2024-post/hello_2024/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/2024/eva-title.png#center&#34; alt=&#34;a&#34;  /&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;lets-go-2024&#34;&gt;LETS GO 2024&lt;/h2&gt;
 &lt;p&gt;Very excited for what is to come this year. After graduating in June with my B.S in cyber security I am poised to get employed sometime this year. While the news about the tech sector is doom and gloom, I do have some opportunities in the works. I have a conditional offer with the government, but I havn&amp;rsquo;t well, yet met the conditions (I guess), but in time everything should be good to go. In the mean time (and in case it doesn&amp;rsquo;t work out with uncle sam) I am still looking for employment in the private sector. And after +500-ish applications since May, and about 4 interviews it definitely seems challenging out here right now, but I am confident it will all work out. Worst case its back to retail and cyber volunteering or an apprenticeship.&lt;/p&gt;</description>

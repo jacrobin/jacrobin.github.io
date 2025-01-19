@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2023 Posts on Jacob Robinson</title>
-    <link>//uild:1313/2023-post/</link>
+    <link>http://localhost:1313/2023-post/</link>
     <description>Recent content in 2023 Posts on Jacob Robinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Sep 2023 14:50:36 -0700</lastBuildDate><atom:link href="//uild:1313/2023-post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Sep 2023 14:50:36 -0700</lastBuildDate><atom:link href="http://localhost:1313/2023-post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ask Iwata Review</title>
-      <link>//uild:1313/2023-post/ask-iwata-review/</link>
+      <link>http://localhost:1313/2023-post/ask-iwata-review/</link>
       <pubDate>Sun, 10 Sep 2023 14:50:36 -0700</pubDate>
       
-      <guid>//uild:1313/2023-post/ask-iwata-review/</guid>
+      <guid>http://localhost:1313/2023-post/ask-iwata-review/</guid>
       <description>&lt;h1 id=&#34;tldr&#34;&gt;TL;DR&lt;/h1&gt;
 &lt;p&gt;I recently finished reading this book, and I really enjoyed it. If you don&amp;rsquo;t know who the late Satoru Iwata is he is a Japanese business man who worked his way up to president of HAL, eventually the president of Nintendo. He tragically passed away in July of 2015 at the age of 55, but his impact and influence on Nintendo and their customers will tell the test of time.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>September Update</title>
-      <link>//uild:1313/2023-post/september-update/</link>
+      <link>http://localhost:1313/2023-post/september-update/</link>
       <pubDate>Sat, 02 Sep 2023 15:36:58 -0700</pubDate>
       
-      <guid>//uild:1313/2023-post/september-update/</guid>
+      <guid>http://localhost:1313/2023-post/september-update/</guid>
       <description>&lt;h1 id=&#34;i-messed-up&#34;&gt;I Messed Up&lt;/h1&gt;
 &lt;p&gt;Hey all, so much for a post every month &lt;code&gt;¯\_(ツ)_/¯&lt;/code&gt;. No seriously, August was a little rough for me so I did slack. I spent a lot of time applying to jobs this month. The daily barrage of rejection emails and subsequent daily applications had really put me into a funk. I stopped keeping track a little after graduating, but I easily submitted at least 10 a week minimum, most weeks felt like I did at least 30. Since June I think I am in the high 300 applications range. Any who, the good-news is I am walking into September with a few prospects, to you know, make a living.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>One Day Build (ODB) #1: Temperature &amp; Humidity Sensor Part: i</title>
-      <link>//uild:1313/2023-post/one-day-build-temp-i/</link>
+      <link>http://localhost:1313/2023-post/one-day-build-temp-i/</link>
       <pubDate>Wed, 19 Jul 2023 14:15:56 -0700</pubDate>
       
-      <guid>//uild:1313/2023-post/one-day-build-temp-i/</guid>
+      <guid>http://localhost:1313/2023-post/one-day-build-temp-i/</guid>
       <description>&lt;h1 id=&#34;intro&#34;&gt;Intro:&lt;/h1&gt;
 &lt;p&gt;This is a new thing I want to start doing where I try to build something at least once a month, and within a day (ideally). To kick things off I wanted to test, and build, a simple arduino powered temperature and humidity sensor. This overall took about three hours including testing of planning, sensors, wiring, testing, and coding.&lt;/p&gt;
 &lt;h1 id=&#34;build-overview&#34;&gt;Build Overview:&lt;/h1&gt;
@@ -46,11 +46,11 @@
     
     <item>
       <title>Failure</title>
-      <link>//uild:1313/2023-post/failure/</link>
+      <link>http://localhost:1313/2023-post/failure/</link>
       <pubDate>Wed, 21 Jun 2023 20:56:59 -0700</pubDate>
       
-      <guid>//uild:1313/2023-post/failure/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//uild:1313/images/372px-Apollo_1%27s_Command_Module_-_GPN-2003-00057.jpeg#center&#34; alt=&#34;a&#34;  /&gt;
+      <guid>http://localhost:1313/2023-post/failure/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/372px-Apollo_1%27s_Command_Module_-_GPN-2003-00057.jpeg#center&#34; alt=&#34;a&#34;  /&gt;
 
 &lt;sup&gt;Apollo 1 Command module, after the fire that killed Gus Grissom, Edward White II, and Roger Chaffee.&lt;sup&gt;&lt;/p&gt;
 &lt;p&gt;I’ve been thinking about failure a lot lately. Not only my failures but the concept of failure in general. In a time where everyone seems divided in some capacity, failure is still a rudimentary universal experience everyone can relate to. From leadership, avionics, innovation, friendships, and academia. All failure at their point of perception feel earth-shattering.&lt;/p&gt;</description>
@@ -58,10 +58,10 @@
     
     <item>
       <title>The State of the Home Lab 2023</title>
-      <link>//uild:1313/2023-post/the-state-of-the-home-lab-2023/</link>
+      <link>http://localhost:1313/2023-post/the-state-of-the-home-lab-2023/</link>
       <pubDate>Mon, 12 Jun 2023 13:28:50 -0700</pubDate>
       
-      <guid>//uild:1313/2023-post/the-state-of-the-home-lab-2023/</guid>
+      <guid>http://localhost:1313/2023-post/the-state-of-the-home-lab-2023/</guid>
       <description>&lt;h1 id=&#34;upgrading-my-workflow&#34;&gt;Upgrading My Workflow&lt;/h1&gt;
 &lt;p&gt;For those who don&amp;rsquo;t know me, I love tinkering with hardware and software. I am also the type of person who will do something a hundred times before deciding on the best strategy for dealing with a given problem. I only just finished my undergraduate studies for cybersecurity, so for the last year or so my home lab was the last thing I was allocating time to. However, with all my new found free-time, I wanted something to work on in the midst of frantically applying for jobs. First, though I wanted a platform in place before working on projects, hence Home Lab 3.0.&lt;/p&gt;</description>
     </item>
