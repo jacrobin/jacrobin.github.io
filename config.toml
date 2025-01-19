@@ -17,6 +17,10 @@ theme = 'PaperMod'
   url = "/posts/"
   weight = 3
 [[menu.main]]
+  name = "2024 Archive"
+  url = "/2024 Post/"
+  weight = 4
+[[menu.main]]
   name = "2023 Archive"
   url = "/2023 Post/"
   weight = 4
