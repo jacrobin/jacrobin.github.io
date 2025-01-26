@@ -13,7 +13,7 @@ My name is Jacob. I am a aspiring cyber security practitioner, professional nerd
 
 ### What do I want to do?
 
-Currently I am pursing a path towards public sector work in cyber security. It seems like the best choice for myself with the current macro economic conditions and tech job market. Eventually I'd like to try roles in the cyber intelligence domain or research. That said I am still actively applying to roles in the private sector in almost every domain in cyber. Do you have shovels? I have hands.
+Currently I am pursuing a path towards public sector work in cyber security. It seems like the best choice for myself with the current macroeconomic conditions and tech job market. Eventually I’d like to try roles in the cyber intelligence domain or research. That said I am still actively applying to roles in the private sector in almost every domain in cyber. Do you have shovels? I have hands.
 
 ### What else am I into?
 
