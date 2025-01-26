@@ -28,8 +28,8 @@ Very excited for what is to come this year. After graduating in June with my B.S
 ## What am I reading/listening:
 
 #### Books:
-- `Malware Analysis Techniques: Tricks for the triage of adversarial software` by Backer
-- `Tricks for the triage of adversarial software` by Kilcullen
+- `Malware Analysis Techniques: Tricks for the triage of adversarial software` by Barker
+- `The Dragons and the Snakes` by Kilcullen
 - `Shinto the Kami Way` by Ono & Woodard
 - `Japanese Death Poems: Written by Zen Monks and Haiku Poets on the Verge of Death` by Hoffmann
 - `Liferider` by Hamilton & Borra
