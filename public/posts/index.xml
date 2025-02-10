@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Jacob Robinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jan 2025 15:07:52 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Feb 2025 22:16:17 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Well</title>
+      <link>http://localhost:1313/posts/well/</link>
+      <pubDate>Sun, 09 Feb 2025 22:16:17 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/well/</guid>
+      <description>&lt;p&gt;So…yeah…things are kinda interesting in America right now. As a public servant, job security is turbulent to say the least. For the last few weeks I have been preparing for several scenarios when certain thresholds are met. My current goal is to make it at least to the two year mark at my current employer and then relocate to Washington if something pans out. However I must be ready for several scenarios where I may have to do that post haste.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Hello 2025</title>
       <link>http://localhost:1313/posts/hello_2025/</link>
@@ -15,6 +24,15 @@
       <guid>http://localhost:1313/posts/hello_2025/</guid>
       <description>&lt;p&gt;Well it is that time again&amp;hellip;&lt;/p&gt;
 &lt;p&gt;2024 was a blur for myself personally and professionally. I grew a lot in some areas and stagnated in others. 2025 has kicked off a bit of a bumpy start, but I am confident this year will be even better than the last. I am already four months away from the first year anniversary of my new job, and I am really enjoying it!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Whats Important</title>
+      <link>http://localhost:1313/posts/whats-important/</link>
+      <pubDate>Sun, 04 Aug 2024 19:17:33 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/whats-important/</guid>
+      <description></description>
     </item>
     
   </channel>

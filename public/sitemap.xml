@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/hello_2025/</loc>
-    <lastmod>2025-01-19T15:07:52-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-19T15:07:52-05:00</lastmod>
+    <lastmod>2025-02-09T22:16:17-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-02-09T22:16:17-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/well/</loc>
+    <lastmod>2025-02-09T22:16:17-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/public/</loc>
+    <lastmod>2025-02-09T22:15:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/public/posts/well/</loc>
+    <lastmod>2025-02-09T22:15:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/hello_2025/</loc>
     <lastmod>2025-01-19T15:07:52-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2024-post/</loc>
@@ -16,6 +25,9 @@
   </url><url>
     <loc>http://localhost:1313/2024-post/end_of_summer_update/</loc>
     <lastmod>2024-08-18T19:02:43-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/whats-important/</loc>
+    <lastmod>2024-08-04T19:17:33-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/home/</loc>
     <lastmod>2024-02-09T11:45:57-08:00</lastmod>
